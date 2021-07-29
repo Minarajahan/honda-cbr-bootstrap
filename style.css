@@ -1,0 +1,23 @@
+.honda-bg-dark{
+    background-color: #264653;
+}
+.button-danger{
+    background-color: #E76F51;
+}
+.danger-text{
+    color: #E76F51;
+}
+.card-section{
+    background-color: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    border-radius: 5px;
+}
+.card-section:hover{
+    border: 3px solid cyan;
+}
+.text-box:hover{
+    border: 3px solid cyan;
+}
+.text-underline:hover{
+    text-decoration: underline #E76F51;
+}
