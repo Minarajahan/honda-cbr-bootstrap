@@ -21,3 +21,6 @@
 .text-underline:hover{
     text-decoration: underline #E76F51;
 }
+.gray-scale{
+    filter: grayscale(100%);
+}
